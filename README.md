@@ -37,3 +37,6 @@ create table mstar(date date, Occ real, Occ_growth real, Occ_comp real, Occ_comp
 ![4](https://user-images.githubusercontent.com/46503526/73233123-8f455c80-4153-11ea-8928-4643ed0e45b4.PNG)
 
 ## other example
+- Marriott Weekly Segmentation Report
+- Marriott Weekly PACE Report
+- M3 Monthly  P&L Report 
