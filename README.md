@@ -44,3 +44,7 @@ create table mstar(date date, Occ real, Occ_growth real, Occ_comp real, Occ_comp
 - Marriott Weekly Segmentation Report
 - Marriott Weekly PACE Report
 - M3 Monthly  P&L Report 
+
+## Note
+Of course, there're many other types of SQL and other types of files to input.
+If you can find the repeating pattern while your receiving files, the you can automate it. 
