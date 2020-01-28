@@ -29,9 +29,11 @@ create table mstar(date date, Occ real, Occ_growth real, Occ_comp real, Occ_comp
 - conn.commit(); this is the actual command to make it effective
 - everytime you run the python code will automated create a row of record in postgresql
 
-# Step four
+## Step four
 - use business intelligence to analyse and visualize your data and create dash-board
 - the most famous BI is tableau which is costly
 ![3](https://user-images.githubusercontent.com/46503526/73233023-3e356880-4153-11ea-9d8c-c7544ccae94f.PNG)
 - you can use powerbi from microsoft instead. It does not support Postgresql. You can download excel from Postgresql and upload into powerbi. 
 ![4](https://user-images.githubusercontent.com/46503526/73233123-8f455c80-4153-11ea-8928-4643ed0e45b4.PNG)
+
+## other example
