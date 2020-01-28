@@ -1,8 +1,10 @@
 # automation
-## This is a simple tutorial to automation
-For corporate financial analyst,  this is a great tool to help simplify the repeating tasks. 
+## This is a simple tutorial for automation
+For corporate financial analyst,  this is a great tool to help simplify all repeating tasks. 
 Most of the analysts will receive weekly or monthly report in excel or pdf or csv or other formate.
-Our goal is to spend most of the time for actual analysis and visualization instead of organizing spread sheet.
+Our goal is to spend most of the time to do actual analysis instead of organizing spreadsheet or physically input data.
+The subject example is based on a hotel operation. 
+
 
 
 ## Step one 
