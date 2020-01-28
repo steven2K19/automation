@@ -3,7 +3,7 @@
 For corporate financial analyst,  this is a great tool to help simplify all repeating tasks. 
 Most of the analysts will receive weekly or monthly report in excel or pdf or csv or other formate.
 Our goal is to spend most of the time to do actual analysis instead of organizing spreadsheet or physically input data.
-The subject example is based on a hotel operation. 
+The subject example is based on a hotel operation. Please see STR Mothly Report.py
 
 ![automation](https://user-images.githubusercontent.com/46503526/73231851-5d46f100-4179-11ea-99f6-700f147bff87.jpg)
 
