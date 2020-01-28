@@ -5,15 +5,15 @@ Most of the analysts will receive weekly or monthly report in excel or pdf or cs
 Our goal is to spend most of the time to do actual analysis instead of organizing spreadsheet or physically input data.
 The subject example is based on a hotel operation. 
 
-
+![automation](https://user-images.githubusercontent.com/46503526/73231851-5d46f100-4179-11ea-99f6-700f147bff87.jpg)
 
 ## Step one 
-- obtain a spread sheet
-- calendar year end financials prorated by months
-- Trailing twelve months financial by aggregate recent 4 quarters
-- Basic share and price for each fiscal year end and recent fiscal quarter end
-- It takes about 10 minutes to create a dataframe for 100 stocks. 
 
+- find pattern of files you received
+- find critical info needed for analysis EG: current month Occupancy, ADR, RevPar
+- find sheet name and cell number
+
+![STAR](https://user-images.githubusercontent.com/46503526/73231891-7cde1980-4179-11ea-9f1a-7938b1956d19.PNG)
 
 ## Step two 
 - financials for recent 3 years. (income statement, balance sheet, cash flow statement)
