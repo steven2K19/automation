@@ -17,15 +17,21 @@ The subject example is based on a hotel operation. Please see STR Mothly Report.
 
 ## Step two 
 - open pgAdmin for Postgresql and create a database and a table 
+
 ![1](https://user-images.githubusercontent.com/46503526/73232389-faeef000-417a-11ea-8261-1da557182b48.PNG)
-- open Query Tool and enter code to create table to host the data needed
+- open Query Tool and enter code to create table to host the data needed (F5).  
 create table mstar(date date, Occ real, Occ_growth real, Occ_comp real, Occ_comp_growth real,MPI real,MPI_growth real)
 ![2](https://user-images.githubusercontent.com/46503526/73232568-92544300-417b-11ea-834d-c3bea7d96928.PNG)
 - check the dataframe and make sure it fit for the data you want to scrape from files
 
 ## Step three 
-- financials for recent 3 years. (income statement, balance sheet, cash flow statement)
-- calendar year end financials prorated by months
-- Trailing twelve months financial by aggregate recent 4 quarters
-- Basic share and price for each fiscal year end and recent fiscal quarter end
-- It takes about 10 minutes to create a dataframe for 100 stocks. 
+- execute the python file to insert the value 
+- conn.commit(); this is the actual command to make it effective
+- everytime you run the python code will automated create a row of record in postgresql
+
+# Step four
+- use business intelligence to analyse and visualize your data and create dash-board
+- the most famous BI is tableau which is costly
+![3](https://user-images.githubusercontent.com/46503526/73233023-3e356880-4153-11ea-9d8c-c7544ccae94f.PNG)
+- you can use powerbi from microsoft instead. It does not support Postgresql. You can download excel from Postgresql and upload into powerbi. 
+![4](https://user-images.githubusercontent.com/46503526/73233123-8f455c80-4153-11ea-8928-4643ed0e45b4.PNG)
