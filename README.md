@@ -5,8 +5,6 @@ Most of the analysts will receive weekly or monthly report in excel or pdf or cs
 Our goal is to spend most of the time to do actual analysis instead of organizing spreadsheet or physically input data.
 The subject example is based on a hotel operation. Please see STR Mothly Report.py
 
-![automation](https://user-images.githubusercontent.com/46503526/73231851-5d46f100-4179-11ea-99f6-700f147bff87.jpg)
-
 ## why use it?
 Let's say that you can produce analysis & dashboard in a minute for one business entity. 
 Then you are capable of managing 20+ business entities per week once your coding is completed. 
